@@ -1,8 +1,8 @@
-# sketch_to_image
+# SCETCH TO IMAGE
 Using CGAN we have generated Realistic Faces from sketches, facades to buildings etc.
 
 
-## How to Use
+## Use HOW TO USE
 
 * Get datasets
 * Copy the train-model.py in the directory of the data-set that you want to train.
@@ -19,11 +19,12 @@ Using CGAN we have generated Realistic Faces from sketches, facades to buildings
 * Run the webapp/app.py file to start the flask app to run your models and provide input and generate output using a GUI.
 
 
-## Description of the included files
+## DESCRIPTION OF THE INCLUDED FILES
 
 * sketch.py was used to convert images to sketches to augment the training data.
 * merge.py was used to merge the ground truth and the input image, as expected by the Neural Network.
 
-## Example Output
+## EXAMPLE OUTPUT
 
-![Sketch to Face](https://raw.githubusercontent.com/anshuman73/sketch_to_image/master/webapp/static/sketch2face.jpg)
+![Sketch to Face]
+ 	(https://raw.githubusercontent.com/anshuman73/sketch_to_image/master/webapp/static/sketch2face.jpg)
