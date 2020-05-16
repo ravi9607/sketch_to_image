@@ -1,4 +1,4 @@
-# sketch_to_image
+# sketch To Image
 Using CGAN we have generated Realistic Faces from sketches, facades to buildings etc.
 
 
